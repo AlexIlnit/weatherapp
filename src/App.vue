@@ -12,6 +12,8 @@ export default {
           // userName: '',
           // userPass: '',
           // userEmail: ''
+
+          
           info: null
       }
     },
